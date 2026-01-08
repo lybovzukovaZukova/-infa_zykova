@@ -1,3 +1,0 @@
-tensorflow==2.7.0
-opencv-python==4.5.3.56
-Augmentor==0.2.8
